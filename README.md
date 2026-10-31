@@ -3,7 +3,7 @@
 Working plan for v0.1:
 
 - ESP32 records sound and post to backend | Done
-- Backend post sound to Yandex S3 | Priority
+- Backend post sound to Yandex S3 | Done
 - Backend post sound with Yandex S3 uri to Yandex SpeechKit | Done
 - Yandex SpeechKit post response to Yandex Alice AI | Done
 - Yandex Alice AI response to Yandex Sintezator | Done
